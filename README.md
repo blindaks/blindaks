@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Akrati! I'm a CSE undergrad at KNIT, Sultanpur.
-- 👀 I’m interested in competitive programming and web development.
-- 🌱 I’m currently learning full-stack web development using MERN stack.
+- 👋 Hi, I’m Akrati! I'm a Computer Science undergrad at KNIT, Sultanpur.
+- 👀 I’m interested in Competitive Programming, Web Development, and Artificial Intelligence.
 - 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/akrati-verma-a8574a234/ | Email: akrativerma2002@gmail.com 
 
 <!---
